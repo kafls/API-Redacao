@@ -21,8 +21,7 @@ HTML, JavaScript, CSS, Python, Flask
 Você deve inserir seus requisitos, o que inclui o tema, a tese e a matéria de forma clara e específica
 
 ### Equipe
-Karen Muzel Reis e Laura Assis
-\n Instrutores SENAI João Paulo e Rafael
+Karen Muzel Reis e Laura Assis; Instrutores SENAI João Paulo e Rafael
 
 ### Próximos Passos:
 1. Aperfeiçoamento do prompt de comando enviado para a IA Gemini
