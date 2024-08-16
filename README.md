@@ -28,9 +28,9 @@ Karen Muzel Reis e Laura Assis; Instrutores SENAI João Paulo e Rafael
 2. Aprimoramento do front-end
 
 ### Palavras-chave:
-API
-Inteligência Artificial
-Gemini
-Geração de Textos
+API,
+Inteligência Artificial,
+Gemini,
+Geração de Textos,
 Redações
 
