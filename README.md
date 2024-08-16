@@ -22,7 +22,7 @@ Você deve inserir seus requisitos, o que inclui o tema, a tese e a matéria de 
 
 ### Equipe
 Karen Muzel Reis e Laura Assis
-Instrutores SENAI João Paulo e Rafael
+\n Instrutores SENAI João Paulo e Rafael
 
 ### Próximos Passos:
 1. Aperfeiçoamento do prompt de comando enviado para a IA Gemini
