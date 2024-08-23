@@ -26,11 +26,14 @@ h1 {
     font-family: "Bebas Neue", sans-serif;
     color: #143547;
     text-align: center;
+    padding-top: 25px;;
 }
 
 .container {
     position: relative;
     text-align: center;
+    align-items: center;
+    justify-content: center;
     background-color: #143547;
     border-radius: 20px;
     padding: 20px;
