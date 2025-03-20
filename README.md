@@ -1,3 +1,4 @@
+## Em manutenção 🔨
 # API-Redacao 
 API Geradora de Redações com Gemini 📃
 
